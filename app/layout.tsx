@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Amr Adel Boghdady | Enterprise IT Project Manager",
+  title: "Amr Adel Boghdady | Senior IT Project Manager",
   description:
-    "Interactive portfolio for Amr Adel Boghdady, a Senior IT Project Manager focused on SAP, data, AI, cybersecurity, and regional enterprise delivery.",
+    "Professional interactive CV portfolio for Amr Adel Boghdady, Senior IT Project Manager across SAP Analytics Cloud, cybersecurity, data analytics, AI, and enterprise delivery.",
 };
 
 export default function RootLayout({
