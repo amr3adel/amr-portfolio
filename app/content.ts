@@ -13,26 +13,26 @@
     eyebrow: "Senior IT Project Manager",
     name: "Amr Adel Boghdady",
     headline:
-      "Enterprise delivery across SAP analytics, cybersecurity, data, AI, and transformation programs.",
+      "Senior IT Project Manager for SAP, Cybersecurity, Data, and AI Delivery",
     summary:
-      "8+ years leading cross-functional technology projects in the Middle East, combining business consulting, structured execution, risk control, and technical fluency.",
-    primaryCta: { label: "View experience", href: "#experience" },
-    secondaryCta: { label: "Open case studies", href: "#case-studies" },
-    contactCta: { label: "Contact me", href: "mailto:amradel95@hotmail.com" },
+      "8+ years leading technology programs across the Middle East, combining project governance, stakeholder management, analytics delivery, and technical execution.",
+    primaryCta: { label: "View Experience", href: "#experience" },
+    secondaryCta: { label: "Open Case Studies", href: "#case-studies" },
+    contactCta: { label: "Contact Me", href: "mailto:amradel95@hotmail.com" },
   },
   impact: {
-    title: "Impact summary",
-    subtitle: "Quantified delivery proof from the CV.",
+    title: "Delivery Impact",
+    subtitle: "Selected outcomes from enterprise technology and engineering projects.",
     status: "Available",
     highlights: [
-      { value: "8+", label: "Years leading technology and engineering delivery" },
-      { value: "56", label: "Cybersecurity, GRC, and software projects at ZINAD" },
-      { value: "$65M", label: "Approx. revenue managed across ZINAD projects" },
-      { value: "$40M+", label: "Revenue delivered across KONE project portfolio" },
+      { value: "8+", label: "Years of IT and engineering delivery leadership" },
+      { value: "56", label: "Projects managed across cybersecurity, GRC, and software delivery" },
+      { value: "$65M", label: "Managed project portfolio at ZINAD" },
+      { value: "$40M+", label: "Delivered project portfolio at KONE" },
     ],
-    focusTitle: "Current focus",
+    focusTitle: "Current Focus",
     focus:
-      "SAP Analytics Cloud planning models, financial process consulting, BBP workshops, and analytics dashboards at SDG Group Middle East.",
+      "Leading SAP Analytics Cloud planning, financial process consulting, BBP workshops, and dashboard delivery for enterprise clients at SDG Group Middle East.",
   },
   experienceSection: {
     eyebrow: "Experience",
@@ -125,7 +125,7 @@
     },
   ],
   caseStudiesSection: {
-    eyebrow: "Case studies",
+    eyebrow: "Case Studies",
     heading: "Open each story to see context, action, and result.",
     openLabel: "Open",
     closeLabel: "Close",
@@ -133,7 +133,7 @@
   caseStudies: [
     {
       title: "SAP SAC Planning Delivery",
-      tag: "Current focus",
+      tag: "Current Focus",
       context:
         "Financial planning stakeholders need clear models, dashboards, and adoption-ready planning workflows.",
       action:
@@ -175,7 +175,8 @@
     heading:
       "Available for senior IT project management, SAP analytics, cybersecurity delivery, and transformation roles.",
     details: "Nasr City, Cairo, Egypt | amradel95@hotmail.com | +20 112 410 3601",
-    emailLabel: "Email me",
+    emailLabel: "Email Me",
     cvLabel: "Download CV",
   },
 } as const;
+

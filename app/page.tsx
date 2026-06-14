@@ -61,7 +61,7 @@ export default function Home() {
           </div>
           <div className="nav-actions">
             <button type="button" className="theme-toggle" aria-pressed={theme === "dark"} onClick={toggleTheme}>
-              <span>{theme === "dark" ? "Light" : "Dark"}</span>
+              <span>{theme === "dark" ? "Light Mode" : "Dark Mode"}</span>
               <span className="theme-toggle-track">
                 <span className="theme-toggle-thumb" />
               </span>
@@ -271,4 +271,5 @@ export default function Home() {
     </main>
   );
 }
+
 
