@@ -470,7 +470,7 @@ h3 {
 }
 
 .small-logo img {
-  max-height: 32px;
+  max-height: 34px;
 }
 
 .large-logo {
@@ -480,7 +480,7 @@ h3 {
 }
 
 .large-logo img {
-  max-height: 42px;
+  max-height: 48px;
 }
 
 .company-name,
@@ -752,3 +752,4 @@ h3 {
 .portfolio[data-theme="dark"] .focus-card span {
   color: rgba(255, 255, 255, 0.86);
 }
+

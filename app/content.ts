@@ -43,7 +43,7 @@
       company: "SDG Group Middle East",
       role: "Senior Project Manager",
       period: "Sep 2024 - Present",
-      logo: "/logos/sdg.svg",
+      logo: "/logos/sdg.png",
       focus:
         "SAP Analytics Cloud planning models, financial process consulting, BBP sessions, and analytics dashboard delivery.",
       proof: [
@@ -56,7 +56,7 @@
       company: "ZINAD IT",
       role: "Senior IT Project Manager",
       period: "Dec 2022 - Sep 2024",
-      logo: "/logos/zinad.svg",
+      logo: "/logos/zinad.png",
       focus:
         "Information security, GRC, software development, and cybersecurity implementation across Egypt, Saudi Arabia, and the Gulf region.",
       proof: [
@@ -69,7 +69,7 @@
       company: "KONE",
       role: "Senior Project Engineer",
       period: "Nov 2018 - Nov 2022",
-      logo: "/logos/kone.svg",
+      logo: "/logos/kone.png",
       focus:
         "Large-scale project lifecycle ownership from sales handover through installation, quality assurance, and closeout.",
       proof: [
@@ -82,7 +82,7 @@
       company: "Synapse Analytics",
       role: "Machine Learning Intern",
       period: "Oct 2021 - Jan 2022",
-      logo: "/logos/synapse.svg",
+      logo: "/logos/synapse.png",
       focus:
         "AI, NLP, and predictive model automation in a practical data science team environment.",
       proof: [
@@ -179,4 +179,5 @@
     cvLabel: "Download CV",
   },
 } as const;
+
 
